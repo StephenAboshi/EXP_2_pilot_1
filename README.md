@@ -1,1 +1,0 @@
- The aim of this study is to explore user behaviours and preferences across various conversational search scenarios, including but not limited to healthcare, online shopping, home security, and financial management.
