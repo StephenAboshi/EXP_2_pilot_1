@@ -1,0 +1,2 @@
+Thank you for considering participation in this experiment. The aim of this study is to explore user behaviour across various conversational search scenarios, including but not limited to healthcare, online shopping, home security, and financial management. You will be asked to interact with different scenarios, each followed by a brief questionnaire.
+It is expected that you would treat Personal information given to you for the purpose of this experiment as you would your real information.
